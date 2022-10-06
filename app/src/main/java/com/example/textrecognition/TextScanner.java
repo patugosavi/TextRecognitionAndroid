@@ -20,18 +20,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
-/*
- *  ****************************************************************************
- *  * Created by : Md Tariqul Islam on 12/10/2018 at 11:19 AM.
- *  * Email : tariqul@w3engineers.com
- *  *
- *  * Purpose:
- *  *
- *  * Last edited by : Md Tariqul Islam on 12/10/2018.
- *  *
- *  * Last Reviewed by : <Reviewer Name> on <mm/dd/yy>
- *  ****************************************************************************
- */
 
 
 public class TextScanner {
